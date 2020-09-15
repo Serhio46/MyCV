@@ -15,3 +15,15 @@ Beginner Front End Developer without experience but with huge desire to become a
 1. Energetic;  
 1. Calm;  
 1. Self-monitoring;  
+
+## Skills
+  - HTML;
+  - CSS;
+  - JS;
+  - Git.
+
+## Education  
+2004 - 2009 Belarusian National Techniсal University.
+
+## Experience
+At the moment I don't have experience as a programmee, but when I finish this course I can put here information about knowledge I learned.
